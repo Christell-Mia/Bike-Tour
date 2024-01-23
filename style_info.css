@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oxygen';
+}
+
+body {
+    background-image: url(./img/grey-2661270_1280.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
